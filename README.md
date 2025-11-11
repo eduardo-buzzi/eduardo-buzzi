@@ -7,10 +7,7 @@
 
 ## Estatísticas
 
-<div style="display: flex; align-items: flex-start;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102&cache_seconds=1800&v=2"
-    alt="GitHub Stats"
+   <img ![eduardo-buzzi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&theme=dracula&show_icons=true&hide_border=true&layout=compact)
     height="165"
     style="margin-right: 10px;"
   />
