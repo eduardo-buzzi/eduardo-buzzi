@@ -37,6 +37,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eduardocristofolini/)
 
----
-
-⭐ _“Transformando curiosidade em código e desafios em aprendizado.”_
