@@ -18,7 +18,7 @@
 ## Linguagens Mais Utilizadas
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&theme=dracula&show_icons=true&hide_border=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&theme=dark&show_icons=true&hide_border=true&layout=compact"
     alt="Top Langs"
     height="165"
   />
