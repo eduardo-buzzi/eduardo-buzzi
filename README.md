@@ -5,27 +5,17 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2° semestre);  
 - 🌱 Estou aprendendo **Java, HTML e CSS**;  
 
----
+##
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/eduardo-buzzi">
-    
-  <img 
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
-  />
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&theme=radical)
 
-  <img 
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&layout=compact&langs_count=7&theme=dracula&hide_border=true"
-  />
+## Linguagens Mais Usadas
 
-  </a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&layout=compact&theme=radical)
 
----
+##
 
 ### 🛠️ Skills
 
