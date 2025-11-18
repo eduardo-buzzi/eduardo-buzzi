@@ -7,15 +7,15 @@
 
 ##
 
-## Estatísticas do GitHub
+## Estatísticas
+![Eduardo Buzzi](https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&theme=dracula)
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&theme=radical)
+## Linguagens Mais Utilizadas
 
-## Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&layout=compact&theme=dracula)
 
 ##
+
 
 ### 🛠️ Skills
 
