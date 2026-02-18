@@ -9,11 +9,11 @@
 
 ## Estatísticas
 
-[Eduardo Buzzi](https://github-readme-stats.vercel.app/api?username=eduardo-buzzi&show_icons=true&theme=dracula&cache_seconds=1800&v=2)
+[![Eduardo Buzzi](https://github-readme-stats-sigma-five.vercel.app/api?username=eduardo-buzzi&theme=dracula&show_icons=true&hide_border=true)](https://github.com/eduardo-buzzi)
 
 ## Linguagens Mais Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-buzzi&layout=compact&theme=dracula&langs_count=6&cache_seconds=1800&v=2)
+[![Eduardo Buzzi](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo-buzzi&theme=dracula&layout=compact&hide_border=true)](https://github.com/eduardo-buzzi)
 
 ##
 
