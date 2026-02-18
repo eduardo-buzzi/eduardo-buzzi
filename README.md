@@ -1,9 +1,9 @@
 ## 👋 Olá, me chamo **Eduardo Cristofolini Buzzi!**
 
-- 🔭 Atualmente em transição de carreira para a área de programação;  
+- 🧑‍💻 Atualmente em transição de carreira para a área de programação;  
 - 💻 Estudo **desenvolvimento Full-Stack** há 1 ano;  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (3° semestre);  
-- 🌱 Estou aprendendo **Java, HTML e CSS**;  
+- 📝 Estou aprendendo **Java, HTML e CSS**;  
 
 ##
 
