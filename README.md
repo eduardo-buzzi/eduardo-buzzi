@@ -4,19 +4,6 @@
 - 💻 Estudo **desenvolvimento Full-Stack** há 2 anos;  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (4° semestre);  
 
-##
-
-## Estatísticas
-
-[![Eduardo Buzzi](https://github-readme-stats-sigma-five.vercel.app/api?username=eduardo-buzzi&theme=dracula&show_icons=true&hide_border=true)](https://github.com/eduardo-buzzi)
-
-## Linguagens Mais Utilizadas
-
-[![Eduardo Buzzi](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo-buzzi&theme=dracula&layout=compact&hide_border=true)](https://github.com/eduardo-buzzi)
-
-##
-
-
 ### 🛠️ Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
