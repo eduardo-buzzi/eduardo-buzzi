@@ -1,7 +1,6 @@
-## 👋 Olá, me chamo **Eduardo Cristofolini Buzzi!**
+## Olá, me chamo **Eduardo Cristofolini Buzzi!**
 
-- 🧑‍💻 Atualmente atuo na área de Suporte de Sistemas;  
-- 💻 Estudo **desenvolvimento Full-Stack** há 2 anos;  
+- 💻 Atualmente atuo na área de Suporte de Sistemas;  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (4° semestre);  
 
 ### 🛠️ Skills
